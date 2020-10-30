@@ -5,8 +5,6 @@ This is my third game made in Unity , for Windows platform in order to help stud
 
 ![Screenshot (88)](https://user-images.githubusercontent.com/72250606/96393364-88c4ac80-11dc-11eb-8d03-b1469e5be567.png)
 
-![Screenshot (89)](https://user-images.githubusercontent.com/72250606/96393366-8a8e7000-11dc-11eb-9d8a-24602b66337e.png)
-
 ![Screenshot (90)](https://user-images.githubusercontent.com/72250606/96393370-8c583380-11dc-11eb-90b1-beb3a76a5361.png)
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/72250606/96393374-8eba8d80-11dc-11eb-942f-e7abe1888b86.png)
