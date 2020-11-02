@@ -1,5 +1,5 @@
 # Bits-King
-This is my third game made in Unity , for Windows platform in order to help students learn different digital circuits easyly.The main idea behind this game is to create a game which will help students to think of digital circuits subject as a fun subject.
+This is my third game made in Unity , for Windows platform in order to help students learn different digital circuits easily.The main idea behind this game is to create a game which will help students to think of digital circuits subject as a fun subject.
 
 ![Screenshot (87)](https://user-images.githubusercontent.com/72250606/96393361-86625280-11dc-11eb-9193-506185293e5e.png)
 
@@ -16,3 +16,9 @@ This is my third game made in Unity , for Windows platform in order to help stud
 ![Screenshot (94)](https://user-images.githubusercontent.com/72250606/96393391-95490500-11dc-11eb-83c1-c975dfb005df.png)
 
 ![Screenshot (96)](https://user-images.githubusercontent.com/72250606/96393395-98dc8c00-11dc-11eb-9d1c-73ab695d9cb0.png)
+
+Steps to play :-
+1.) Fock
+2.) Select folder
+3.) Clone
+4.) Play
