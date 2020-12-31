@@ -1,6 +1,6 @@
 # Bits-King
 This is my First 2D game for window platform,The idea behind this one is to help students imagine as well as believe that design logic is nothing more than a subject full of fun.
-IF YOU BELIEVE THAT DCDL IS A DIFICULT SUBJECT THAN THIS APP/GAME IS IMPORTANT FOR YOU.
+IF YOU BELIEVE THAT DCDL IS A DIFFICULT SUBJECT THEN THIS APP/GAME IS VERY IMPORTANT FOR YOU TO PLAY.
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/72250606/103397395-3d286a80-4b5e-11eb-87c7-6df6b93f47c7.png)
 ![Screenshot (98)](https://user-images.githubusercontent.com/72250606/103397420-592c0c00-4b5e-11eb-9c9c-81af496025f6.png)
