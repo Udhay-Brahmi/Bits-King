@@ -1,5 +1,5 @@
 # Bits-King
-This is my third game made in Unity , for Windows platform in order to help students learn different digital circuits easily.The main idea behind this game is to create a game which will help students to think of digital circuits subject as a fun subject.
+This is my first 2D game made in Unity , for Windows platform in order to help students learn different digital circuits easily.The main idea behind this game is to create a game which will help students to think of digital circuits subject as a fun subject.
 
 ![Screenshot (87)](https://user-images.githubusercontent.com/72250606/96393361-86625280-11dc-11eb-9193-506185293e5e.png)
 
