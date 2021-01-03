@@ -1,5 +1,5 @@
 # Bits-King
-This is my First 2D game for window platform,The idea behind this one is to help students imagine as well as believe that design logic is nothing more than a subject full of fun.
+This is my first 2D game for window platform,The idea behind this one is to help students imagine as well as believe that digital circuit and design logic is nothing more than a subject full of fun.
 IF YOU BELIEVE THAT DCDL IS A DIFFICULT SUBJECT THEN THIS APP/GAME IS VERY IMPORTANT FOR YOU TO PLAY.
 
 Video: https://www.youtube.com/watch?v=lEwHFZKhz4A
